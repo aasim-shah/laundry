@@ -4,7 +4,7 @@ const { NODE_ENV = "production" } = process.env;
 const { hostname } = window.location;
 
 const servers = {
-  local: "https://laundry-backend-riu6.onrender.com/",
+  local: "https://laundry-backend-riu6.onrender.com",
   // local: "http://localhost:3021",
   // customDev: "https://react.customdev.solutions:3021",
   customDev: "https://react.customdev.solutions:3021",
